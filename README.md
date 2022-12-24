@@ -21,5 +21,3 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,git,jenkins,linux,docker,python,maven,kubernetes,ansible,azure,html,css&perline=6)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodvarma1999&show_icons=true&locale=en&layout=compact" alt="vinodvarma1999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodvarma1999&" alt="vinodvarma1999" /></p>
